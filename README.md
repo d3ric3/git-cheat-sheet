@@ -1,3 +1,7 @@
+### Set Credential Store (Stop typing credential for git push)
+* git config credential.helper store
+</br>
+
 ### Configure Commit Editor as VS Code
 * git config --global core.editor "code --wait"
 </br>
